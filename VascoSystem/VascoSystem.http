@@ -1,0 +1,6 @@
+@VascoSystem_HostAddress = http://localhost:5029
+
+GET {{VascoSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
